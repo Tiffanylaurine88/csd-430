@@ -1,0 +1,80 @@
+/*
+    Name: Tiffany Davidson
+    Date: June 2026
+    Assignment: Module 2.2 JSP Scriptlets Assignment
+    Purpose: External CSS file used to style the dynamic JSP page.
+*/
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f1ec;
+    color: #2f2f2f;
+}
+
+.container {
+    width: 85%;
+    max-width: 1000px;
+    margin: 30px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+header {
+    text-align: center;
+    border-bottom: 3px solid #b38b59;
+    margin-bottom: 25px;
+    padding-bottom: 15px;
+}
+
+h1 {
+    margin-bottom: 5px;
+    color: #5a3e2b;
+}
+
+h2 {
+    color: #6b4d35;
+    margin-top: 25px;
+}
+
+.subtitle {
+    font-size: 18px;
+    color: #6e6e6e;
+}
+
+.description-box,
+.summary-box {
+    background-color: #fbf7f0;
+    border-left: 5px solid #b38b59;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th {
+    background-color: #6b4d35;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #f8f3ec;
+}
+
+tr:hover {
+    background-color: #efe2d0;
+}
