@@ -1,0 +1,12 @@
+Tiffany Davidson
+Module 9.2 Submission Structure
+
+This module-9 folder contains:
+- module-5: Combined Modules 5 and 6 project files
+- module-7: Module 7 project files
+- module-8: Module 8 project files
+- Module 9 files at the root of this folder, including deleteMovies.jsp,
+  index.jsp, and the updated packaged MovieBean under WEB-INF/classes.
+
+Deploy this complete module-9 folder to:
+C:\apache-tomcat-10\webapps\module-9
